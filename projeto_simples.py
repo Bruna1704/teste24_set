@@ -14,4 +14,4 @@ if b > a and b > c:
 if c > a and c > b:
     maior = c
 
-print(f'O maior número digitado foi {maior} e o menor fio {menor}')
+print(f'O maior número digitado foi {maior} e o menor foi {menor}')
